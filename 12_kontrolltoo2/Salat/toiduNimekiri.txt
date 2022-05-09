@@ -1,0 +1,15 @@
+Retsepti nimetus - Kartuli salat
+Yld kogus - 350.0
+Toiduainete statistiika kokku: 
+Rasvud söögis - 48.0
+Valgud söögis - 77.0
+Susivesikute söögis - 9.25
+Eraldi toiduainete väärtused:
+Saarema juust :
+Rasvud söögis - 30.0
+Valgud söögis - 62.0
+Susivesikute söögis - 4.0
+Maxima kanatiivad :
+Rasvud söögis - 18.0
+Valgud söögis - 15.0
+Susivesikute söögis - 5.250000000000001
